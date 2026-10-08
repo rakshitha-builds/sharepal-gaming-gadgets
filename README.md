@@ -6,7 +6,7 @@ built as part of a front-end assignment. The goal was to match the original
 layout, typography, spacing, interactions and animations as closely as possible,
 while keeping the SharePal design language consistent.
 
-**Live demo:** https://YOUR-VERCEL-URL.vercel.app/bangalore/gaming-gadgets-on-rent
+**Live demo:** [https://YOUR-VERCEL-URL.vercel.app/bangalore/gaming-gadgets-on-rent](https://sharepal-gaming-gadgets-ten.vercel.app/bangalore/gaming-gadgets-on-rent)
 **Repository:** https://github.com/rakshitha-builds/sharepal-gaming-gadgets
 
 ---
